@@ -1,4 +1,4 @@
-# 🎬 SupportFlow Visual Builder
+# 🎬 SupportFlow Visual Builder Project
 
 SupportFlow Visual Builder is an enterprise-grade web application designed to replace complex, error-prone spreadsheets with an intuitive, real-time node graph interface. Built from scratch using React 19, Zustand, and Tailwind CSS, it empowers customer support managers to seamlessly visualize, update, and test automated Help Bot chat structures instantly.
 
@@ -73,4 +73,4 @@ Follow these deployment steps to pull and launch the application environment ins
 ### Execution Steps
 1. **Clone the repository instance fork:**
    ```bash
-   git clone [https://github.com/jeannorbertbizimana-lab/SupportFlow-Visual-Builder.git](https://github.com/jeannorbertbizimana-lab/SupportFlow-Visual-Builder.git)
+   git clone [https://github.com/jeannorbertbizimana-lab/supportflow-visual-builder-project.git](https://github.com/jeannorbertbizimana-lab/supportflow-visual-builder-project.git)
