@@ -2,6 +2,11 @@
 
 SupportFlow Visual Builder is an enterprise-grade web application designed to replace complex, error-prone spreadsheets with an intuitive, real-time node graph interface. Built from scratch using React 19, Zustand, and Tailwind CSS, it empowers customer support managers to seamlessly visualize, update, and test automated Help Bot chat structures instantly.
 
+
+## 🔗 Live Demo Link
+👉 **[Click here to test the live application on Vercel](https://supportflow-visual-builder-project-seven.vercel.app)**
+
+
 ---
 
 ## 🧠 Phase 1: Technical Architecture & Core Code Implementation
@@ -48,7 +53,6 @@ To enforce clean visual consistency and rigorous implementation alignment, a com
 
 ### 🔗 Design Assets
 * **Figma Live Specification File:** https://www.figma.com/design/eUOmgzcuE2dqOUzU8aLXS0/Untitled?node-id=1-2&t=vtG1ypuCmewA0Mxd-1
-  *(⚠️ Note: Document file-sharing permissions are set to public view status to ensure validator accessibility)*
 
 ### 💎 Design Token Mapping Hierarchy
 
